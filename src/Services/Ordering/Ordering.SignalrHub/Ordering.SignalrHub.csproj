@@ -13,10 +13,10 @@
 
   <ItemGroup>
 	  <PackageReference Include="AspNetCore.HealthChecks.AzureServiceBus" Version="5.1.1" />
-	  <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="6.0.2" />
+	  <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="5.0.1" />
 	  <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="5.0.1" />
 	  <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0-preview.1" />
-	  <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.18.0" />
+	  <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.20.0" />
 	  <PackageReference Include="Microsoft.ApplicationInsights.DependencyCollector" Version="2.18.0" />
 	  <PackageReference Include="Microsoft.ApplicationInsights.Kubernetes" Version="2.0.2-beta2" />
 	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" />
